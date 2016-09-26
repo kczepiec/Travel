@@ -1,7 +1,7 @@
 # Travel
 
 (>‿◠)✌ Hello everyone!
-It's my first project using Zurb Foundation.
+This is my first project using Zurb Foundation.
 
 ➊ HTML
 ➋ CSS
